@@ -15,6 +15,7 @@ Algoritmo Mi1erPseudocodigo
 	//Esperar 5 segundos
 	Escribir "Inicio conteo 5 segundos"
 	Esperar 5 SEGUNDOS
+		
 	Escribir "Fin conteo 5 segundos"
 		
 	
