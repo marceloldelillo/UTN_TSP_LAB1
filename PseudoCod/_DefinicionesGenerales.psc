@@ -98,9 +98,9 @@ Algoritmo DefinicionesGenerales
 	// Matrices
 	// ****************************************************************************************
 	
-	// Inicializar Prec=Arreglo de precios y Cant=Arreglo para cantidades
 	
-	//Define una matris de 20 elementos. 4 Filas y 5 Columnas
+	
+	//Define una matriz de 20 elementos. 4 Filas y 5 Columnas
 	Dimension Cantidades[4,5]
 	
 	//Asignar valores a las celdas (1,1), (1,2), (3,3) y (4,5)
