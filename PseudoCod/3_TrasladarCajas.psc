@@ -17,11 +17,15 @@ Algoritmo TrasladarCajas
 	eCantCajas = 70
 	eViajes = 1
 	
+	Escribir "Tienes el traje Puesto? (Verdadero/Falso)"
+	Leer bTrajePuesto
+	
 	si (bTrajePuesto = Falso)
 		//Poner traje
 		Escribir "Me coloco el traje"
 		bTrajePuesto = Verdadero
 	FinSi
+	
 	Escribir  ""
 	Escribir "Inicio traslado de cajas"
 	
