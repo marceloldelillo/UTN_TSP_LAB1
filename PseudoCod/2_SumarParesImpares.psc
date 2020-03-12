@@ -6,8 +6,8 @@
 // ########################################################################################
 
 Algoritmo SumarParesImpares
-	Definir eSumaPar como entero
-	Definir eSumaImpar como entero
+	Definir eSumaPar como entero					//Acumulador Pares
+	Definir eSumaImpar como entero					//Acumulador Impares
 	
 	
 	Para eCiclos<-1 hasta 100 Con Paso 1 Hacer		//Bucle del 1 al 100	

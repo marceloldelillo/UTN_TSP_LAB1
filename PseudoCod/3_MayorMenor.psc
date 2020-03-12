@@ -7,7 +7,7 @@
 
 Algoritmo MayorMenor
 		
-	Definir rValorA como real
+	Definir rValorA como Real
 	Definir rValorB Como Real
 	
 	rValorA<--1
@@ -23,7 +23,7 @@ Algoritmo MayorMenor
 		Leer rValorB
 		
 		
-		si rValorA = rValorB Entonces
+		Si rValorA = rValorB Entonces
 			Si rValorA=0 y rValorB=0 Entonces
 				Escribir "Fin del Proceso, Ingreso 0,0"
 			SiNo
