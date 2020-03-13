@@ -13,5 +13,26 @@
 
 Algoritmo OperacionesAlgebraicas
 	
+	Definir eValorA como entero
+	Definir eValorB Como Entero
+	
+	Definir eResultado Como Entero
+	
+	Escribir "Ingrese valores para A y B"
+	Leer eValorA, eValorB
+	
+	Si eValorA>eValorB Entonces					//	A) Si A es mayor que B ' Restar ambos valores 
+		eResultado=eValorA-eValorB
+	sino
+		si eValorA=eValorB Entonces				//	B) Si A es igual a B ' Sumar ambos valores 
+			eResultado = eValorA + eValorB
+		SiNo									//	C) Si A es menor que B ' Multiplicar ambos valores 
+			eResultado = eValorA * eValorB
+			
+		FinSi
+	FinSi
+	
+	
+	Escribir "Los valores ingresados para (A= ",eValorA,") y (B= ",eValorB,")  dan como resultado: ",eResultado
 	
 FinAlgoritmo
